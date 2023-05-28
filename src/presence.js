@@ -1,7 +1,7 @@
 const presence = {
     status: "idle",
     activity: {
-        name:"kulo",
+        name:"Programando",
         type:"STREAMING"
     }
 };
