@@ -1,0 +1,24 @@
+{
+    "language": "spanish",
+    "autor": "Sbleit",
+    "version": "1.1",
+    "Errores": {
+        "errorCoinInfo": "La moneda introducida no existe o esta mal escrita.",
+        "changeLanguage":"Porfavor introduce un idioma disponible"
+    },
+    "InfoAPI" :{
+        "cap_market": "Capitalización del mercado",
+        "volumen": "Volumen 24 Horas",
+        "acciones_totales": "",
+        "acciones_max": ""
+    },
+    "cambios":{
+
+    },
+    "infoCommands":{
+        "prefixChange": "Prefix cambiado a : ",
+        "prefix": "El prefix actual es: ",
+        "language": "El idioma actual es: ",
+        "languageChange": "Idioma cambiado a :"
+    }
+}

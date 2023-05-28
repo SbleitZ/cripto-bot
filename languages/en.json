@@ -1,0 +1,23 @@
+{
+    "language": "english",
+    "autor": "Sbleit",
+    "version": "1.1",
+    "Errores": {
+        "errorCoinInfo": "The currency entered does not exist or is misspelled.",
+        "changeLanguage":"Please enter an available language"
+    },
+    "InfoAPI" :{
+        "cap_market": "Market capitalization",
+        "volumen": "Volume 24 Hours",
+        "acciones_totales": "",
+        "acciones_max": ""
+    },
+    "cambios":{
+
+    },
+    "infoCommands":{
+        "prefixChange": "Prefix changed to : ",
+        "prefix": "The current prefix is: ",
+        "language": "The current language is: "
+    }
+}
